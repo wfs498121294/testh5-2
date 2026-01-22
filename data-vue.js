@@ -175,7 +175,7 @@ const ELEMENTS_DATA = [
 // Coin Packages Data - 完全匹配IAP套餐表
 const COIN_PACKAGES = [
     // 标准套餐 (序号 00-11)
-    { code: '20020200', price: '$0.99', coins: 100, type: 'standard', discount: 0 },
+    { code: '473903', price: '$0.99', coins: 100, type: 'standard', discount: 0 },
     { code: '20020201', price: '$1.99', coins: 200, type: 'standard', discount: 0 },
     { code: '20020202', price: '$2.99', coins: 300, type: 'standard', discount: 0 },
     { code: '20020203', price: '$3.99', coins: 400, type: 'standard', discount: 0 },
