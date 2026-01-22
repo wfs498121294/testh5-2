@@ -1,0 +1,104 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+.record/
+.cursor/
+# 首先忽略所有 .md 文件
+*.md
+# 然后取消忽略 README.md
+!README.md
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Xcode
+.DS_Store
+xcuserdata/
+
+# CocoaPods
+Pods/
+confuse_backup_ios/
+confuse_history_ios/
+ios/*.md
+
+# Carthage
+Carthage/Build/
+
+# Swift Package Manager
+.build/
+
+# Generated files
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Build products
+build/
+*.o
+*.~bc
+*.swiftdoc
+*.swiftmodule
+
+# Test results
+TestResults/
+
+# Dependencies
+*.xcframework/
+
+
+# Other
+*.log
+*.tmp
+*.bak
+
+.idea
+.vscode
+# Pods
+*.xcuserdatad
+
+
+
+Podfile.lock
+pubspec.lock
+creater_new_code_file.md
+.dat.nosyncC99.C4X7KG
+input_code.md
+open.sh
+server.py
